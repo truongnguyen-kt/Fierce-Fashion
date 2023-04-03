@@ -22,11 +22,13 @@ public class usersEntity {
 
     private String phone;
 
-    private String filename;
+    private String fullname;
 
     private String img_path;
 
     private String address;
 
     private Boolean gender;
+
+    private String password;
 }
