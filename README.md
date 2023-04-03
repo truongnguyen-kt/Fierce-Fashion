@@ -1,4 +1,4 @@
-<div align="center"># MTLT_Shop</div>
+# MTLT_Shop
 MTLT is a modern clothes shop with a trendy fashion collection on Github. Explore our latest releases, sneak peeks, and resources for a seamless shopping experience. Discover the best of fashion with MTLT.
 <h1>Welcome to MTLT's Fashion Collection</h1>
 	<p>MTLT is a trendy and modern clothes shop that caters to fashion-forward individuals looking to stay on top of the latest styles. Our clothing lines are crafted with the finest materials and designed by some of the most talented fashion designers in the industry.</p>
