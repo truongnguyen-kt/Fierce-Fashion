@@ -1,0 +1,13 @@
+follow this introduction:
+
+create a folder in your computer
+open cmd on this folder and add code below:
+git init // this code is create an empty local repo
+git remote add -f master https://github.com/truongnguyen-kt/MTLT_Shop.git // add a master branch in your repo and pull all brach from project's repo
+git checkout <!branch name> // check the branch (backend, frontend, main)
+git pull https://github.com/truongnguyen-kt/MTLT_Shop.git <!branch name> // pull source code from the
+open the project and code....
+git add . // add your code to local repository
+git commit -m"<!your commit here"> // commit your change
+git push https://github.com/truongnguyen-kt/MTLT_Shop.git <!branch name> // push your code to <!branch name>
+DO NOT PUSH YOUR CODE TO main branch.
